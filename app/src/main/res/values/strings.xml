@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="s_ries">Séries</string>
+    <string name="filmes">Filmes</string>
+    <string name="list">Minha lista</string>
+    <string name="minha_lista">Minha lista</string>
+    <string name="aventura">Aventura</string>
+    <string name="aventura">Aventura</string>
+    <string name="anima_o">Animação</string>
+    <string name="com_dia">Comédia</string>
+    <string name="lista">MINHA LISTA</string>
+    <string name="lanca">Lançamento</string>
+    <string name="lan_amento">Lançamento</string>
+    <string name="minha_lista1">MINHA LISTA</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista1">MINHA LISTA</string>
+    <string name="detalhes">DETALHES</string>
+    <string name="detalhes">DETALHES</string>
+</resources>

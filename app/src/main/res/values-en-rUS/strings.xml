@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="s_ries">Series</string>
+    <string name="filmes">Movies</string>
+    <string name="list">My list</string>
+    <string name="minha_lista">My list</string>
+    <string name="aventura">Adventure</string>
+    <string name="anima_o">Animation</string>
+    <string name="com_dia">Comedy</string>
+    <string name="lista">MY LIST</string>
+    <string name="lanca">Launch</string>
+    <string name="lan_amento">Launch</string>
+    <string name="assistir">Watch</string>
+    <string name="minha_lista1">MY LIST</string>
+    <string name="detalhes">DETAILS</string>
+</resources>

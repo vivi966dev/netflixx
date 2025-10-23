@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="20dp"
+    android:height="20dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Círculo branco com subpaths que recortam o "i" (fillType evenOdd faz o recorte) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="
+            M256,0
+            C114.62,0 0,114.62 0,256
+            s114.62,256 256,256 256,-114.62 256,-256S397.38,0 256,0z
+
+            M276,160
+            a20,20 0 1,1 -40,0
+            a20,20 0 1,1 40,0z
+
+            M236,216
+            h40
+            v136
+            h-40z" />
+</vector>
